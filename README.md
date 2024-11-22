@@ -1,0 +1,1 @@
+This project aims to implement the Cohen-Sutherland line clipping algorithm and provide a user-friendly graphical user interface (GUI) to visualize the clipping process. The Cohen-Sutherland algorithm is a well-known technique in computer graphics for determining the visible portions of lines within a specified clipping window.
